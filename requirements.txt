@@ -13,5 +13,5 @@ seaborn>=0.12.2
 sqlalchemy>=2.0.38
 sympy>=1.10.1
 xgboost
-streamlit==<1.66.1>
-openpyxl==<3.1.5>
+streamlit==1.66.1
+openpyxl==3.1.5
